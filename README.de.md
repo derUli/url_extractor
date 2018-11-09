@@ -1,9 +1,9 @@
 # url_extractor
 
 Dieses Modul für UliCMS 2018.4 und neuer extrahiert URLs aus einem String
-und gibt diese als Array zurück
+und gibt diese als Array zurück.
 
-## Example
+## Beispiel
 
 ```php
 <?php
