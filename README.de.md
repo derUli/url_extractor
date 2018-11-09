@@ -1,7 +1,7 @@
 # url_extractor
 
-This module for UliCMS 2018.4 and later extracts URLs from
-strings and returns the urls as an array.
+Dieses Modul für UliCMS 2018.4 und neuer extrahiert URLs aus einem String
+und gibt diese als Array zurück
 
 ## Example
 
