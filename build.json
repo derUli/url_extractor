@@ -1,0 +1,9 @@
+{
+	"id": "url_extractor",
+	"version": "1.0",
+	"description": "Extract Urls from Strings",
+	"categories": [
+		"admin"
+	],
+	"compatible_from": "2018.4"
+}
